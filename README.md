@@ -2,6 +2,8 @@
 
 `push_swap` requires sorting data in a stack, using a limited set of instructions with as few operations as possible.
 
+Score: **84%**
+
 ## Features
 
 - Sorting of integer arrays.
